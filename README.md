@@ -18,7 +18,7 @@ You also need an OpenAI API key, which you can obtain by signing up for an accou
 
 ## Demo
 
-
+https://github.com/Sajid030/chatbot-using-gpt3/assets/126476034/9de3fa81-8100-4e75-abd6-6a03d2802650
 
 ## Acknowledgments
 This project is part of the Topperworld Virtual Internship Program August Batch 2023. Special thanks to the program organizers for providing this opportunity to enhance my skills.
